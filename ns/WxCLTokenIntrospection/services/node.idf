@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">WxCLTokenIntrospection.services</value>
+  <value name="node_pkg">WxCLTokenIntrospection</value>
+  <value name="is_public">false</value>
+  <value name="shared"></value>
+  <value name="encodeutf8">true</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>com.auth0.jwk.InvalidPublicKeyException</value>
+    <value>com.auth0.jwk.Jwk</value>
+    <value>com.auth0.jwk.JwkException</value>
+    <value>com.auth0.jwk.JwkProvider</value>
+    <value>com.auth0.jwk.UrlJwkProvider</value>
+    <value>com.auth0.jwt.JWT</value>
+    <value>com.auth0.jwt.algorithms.Algorithm</value>
+    <value>com.auth0.jwt.interfaces.DecodedJWT</value>
+    <value>java.net.MalformedURLException</value>
+    <value>java.net.URL</value>
+    <value>java.security.interfaces.RSAPublicKey</value>
+    <value>java.util.Calendar</value>
+    <value>java.security.spec.InvalidKeySpecException</value>
+    <value>java.security.spec.PKCS8EncodedKeySpec</value>
+    <value>java.security.spec.X509EncodedKeySpec</value>
+    <value>java.security.PublicKey</value>
+    <value>java.security.KeyFactory</value>
+    <value>java.security.NoSuchAlgorithmException</value>
+    <value>java.util.Base64</value>
+  </array>
+</Values>
